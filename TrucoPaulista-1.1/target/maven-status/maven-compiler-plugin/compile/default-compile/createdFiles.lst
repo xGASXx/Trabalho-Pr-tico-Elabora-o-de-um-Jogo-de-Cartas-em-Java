@@ -1,0 +1,12 @@
+TrucoPaulista\Mesa.class
+TrucoPaulista\RodadaNormal.class
+TrucoPaulista\RodadaTruco.class
+TrucoPaulista\Rodada.class
+TrucoPaulista\RodadaSeis.class
+TrucoPaulista\Partida.class
+TrucoPaulista\RodadaFactory.class
+TrucoPaulista\Baralho.class
+TrucoPaulista\Jogador.class
+TrucoPaulista\Carta.class
+TrucoPaulista\RodadaDoze.class
+TrucoPaulista\RodadaNove.class
